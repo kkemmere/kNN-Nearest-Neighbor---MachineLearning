@@ -1,0 +1,11 @@
+A new telescope in South America might, astronomers have hoped, decrypt some of the universe's mysteries and — assuming it exists — even provide the first glimpse of Planet Nine, a giant world that some scientists predict is lurking in the outskirts of our solar system. But standing between the telescope and its potential discoveries are hundreds of internet-beaming satellites that belong to Elon Musk's SpaceX.
+Astronomers say trails of light given off by the satellites could pockmark thousands of images captured at the Rubin Observatory, where the telescope will be housed, despite recent efforts SpaceX had made to dim its Starlink
+"The astronomy community was not prepared for this, and certainly not funded for it," Tony Tyson, the Rubin Observatory's chief scientist, said.
+SpaceX did not respond to requests to comment.
+
+Starlink is a satellite-based internet constellation intended to blanket the planet in high-speed broadband, and often touted as a way to potentially bring connectivity to the billions of people who still lack reliable internet access. The idea requires swarms of satellites operating in low-Earth orbit — roughly 340 miles high, in SpaceX's case — to provide continuous coverage.
+Other companies have been trying and failing to build such an internet constellation for decades. But SpaceX is already launching new satellites at an unprecedented pace. More than 400 Starlink satellites have been deployed since January, and SpaceX plans to grow Starlink to include more than 40,000 satellites. That's five times the total number of satellites humans have launched since the dawn of spaceflight.
+There are no formal rules regulating the brightness of new satellites. And a host of other companies, including Amazon and OneWeb, are building, or plan to build, satellite-internet constellations similar to Starlink.
+Tyson said SpaceX deserves credit for making a sincere effort to mitigate the problems these satellites will pose for astronomers.
+But the question academics, experts and other stakeholders are now asking is: How permanently and severely will the commercial space race alter the night sky?
+"I'm always an optimist," Tyson told CNN Business. "But I'm frankly scared."
