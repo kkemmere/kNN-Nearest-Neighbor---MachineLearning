@@ -15,3 +15,7 @@ Created by Kevin Kemmerer for Internet of Things
 ![knn](https://github.com/kkemmere/kNN-Nearest-Neighbor---MachineLearning/blob/main/testing/Screen%20Shot%202022-05-24%20at%205.46.36%20PM.png)
 <br/>
 
+# Example of input article which is contained in the training data "IdenticalHealth.txt"
+- Distance vector value of 0.<br/><br/>
+![knn](https://github.com/kkemmere/kNN-Nearest-Neighbor---MachineLearning/blob/main/testing/Screen%20Shot%202022-05-24%20at%205.56.34%20PM.png)
+<br/>
