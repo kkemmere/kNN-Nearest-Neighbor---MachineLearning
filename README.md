@@ -6,4 +6,12 @@ One of my favorite projects I completed for my B.S. Fundamentally this program s
 Input articles are in "testing" folder and must be taken out of folder before use. (Program currently doesnt search the testing folder)<br/><br/>
 More information in "CS366 Final Assignment Tests.pdf"<br/>
 Created by Kevin Kemmerer for Internet of Things
+<br/><br/>
+
+# Program being ran using PyCharm IDE input from user is "CovidExample.txt"
+- Program displays distance vector of which the input "CovidExample.txt" is close to each training article.
+- Training data that is most similar (nearest neighbor) will have smallest distance vector.<br/>
+
+![knn](https://github.com/kkemmere/kNN-Nearest-Neighbor---MachineLearning/blob/main/testing/Screen%20Shot%202022-05-24%20at%205.46.36%20PM.png)
+<br/>
 
