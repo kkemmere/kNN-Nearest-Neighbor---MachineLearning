@@ -8,7 +8,7 @@ More information in "CS366 Final Assignment Tests.pdf"<br/>
 Created by Kevin Kemmerer for Internet of Things
 <br/><br/>
 
-# Program being ran using PyCharm IDE input from user is "CovidExample.txt"
+# Program being run using PyCharm IDE input from user is "CovidExample.txt"
 - Program displays distance vector of which the input "CovidExample.txt" is close to each training article.
 - Training data that is most similar (nearest neighbor) will have smallest distance vector.<br/>
 
